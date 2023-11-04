@@ -62,7 +62,7 @@
                             Created_at
                         </th>
                         <th>
-                            Aksi
+                            Action
                         </th>
                     </tr>
                     <?php
